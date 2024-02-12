@@ -16,7 +16,7 @@
 
 ## Contacto
 - 📧 Email: joseluis1208@gmail.com
-- 🔗 LinkedIn: [José Luis Morales Miranda](#)
+- 🔗 LinkedIn: [José Luis Morales Miranda](#https://www.linkedin.com/in/jos%C3%A9-luis-morales-miranda-073a421a8/)
 
 
 ## Objetivos
