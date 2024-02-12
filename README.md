@@ -8,8 +8,6 @@
 - 🚀 Actualmente enfocado en: [Proyectos personales](#), [Aprendizaje constante](#), [Buscando oportunidades laborales](#)
 
 ## Proyectos Destacados
-- 🌐 [Proyecto 1](#) - Descripción breve del proyecto.
-- 🚀 [Proyecto 2](#) - Descripción breve del proyecto.
 
 ## Habilidades
 - 💻 JavaScript, C++, Node.js, TypeScript
@@ -17,9 +15,9 @@
 - 🚀 Autodidacta, apasionado por aprender
 
 ## Contacto
-- 📧 Email: tuemail@gmail.com
-- 🔗 LinkedIn: [Tu Nombre en LinkedIn](#)
-- 🐦 Twitter: [@TuUsuarioTwitter](#)
+- 📧 Email: joseluis1208@gmail.com
+- 🔗 LinkedIn: [José Luis Morales Miranda](#)
+
 
 ## Objetivos
 Actualmente, estoy buscando oportunidades para trabajar en proyectos desafiantes y contribuir a equipos de desarrollo. ¡Me encantaría aprender y crecer profesionalmente!
