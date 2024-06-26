@@ -39,23 +39,6 @@
 - Apertura a las opiniones de los demás
 - Ideas innovadoras ocasionales
 
-### Debilidades 🛠️
-- Dificultad para manejar cambios constantes
-- Procrastinación sin fechas claras
-- Dependencia de supervisión constante
-- Reticencia a decir "No"
-- Falta de confianza para proponer cambios
-- Adaptación lenta a nuevas herramientas
-- Problemas de concentración en ambientes ruidosos
-- Dificultad para trabajar con personas difíciles
-- Desmotivación por compensación insuficiente
-
-### Amenazas ⚠️
-- Cambios o reestructuraciones en la empresa
-- Errores por desconocimiento de tecnologías nuevas
-- Ajuste de horarios por compromisos académicos
-- Comunicación interna deficiente
-
 ## 📊 Competencias Técnicas
 
 ### BackEnd
