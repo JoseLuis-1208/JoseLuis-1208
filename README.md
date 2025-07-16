@@ -10,8 +10,7 @@
   - [Aprendizaje constante](#)
   - [Buscando oportunidades laborales](#)
 
-## 🌟 Proyectos Destacados
-- *Aquí puedes agregar enlaces o descripciones de tus proyectos más importantes.*
+
 
 ## 💼 Habilidades
 - **Lenguajes y Frameworks:**
